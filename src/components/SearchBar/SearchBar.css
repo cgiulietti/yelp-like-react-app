@@ -1,0 +1,29 @@
+.SearchBarContainer {
+  display: flex;
+  flex-flow: row wrap;
+  padding-bottom: 50px;
+  max-width: 750px;
+}
+
+.SearchText {
+  max-width: 200px;
+  margin: auto !important;
+  order: 1;
+}
+
+.DollarsSelect {
+  margin: 15px auto;
+  height: 55px;
+  order: 2;
+}
+
+.HasDelivery {
+  order: 3;
+}
+
+.SearchButton {
+  width: 100px;
+  height: 40px;
+  margin: auto !important;
+  order: 4;
+}

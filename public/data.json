@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Taco Bell",
+    "keywords": ["mexican", "tacos"],
+    "dollarSigns": 1,
+    "hasDelivery": false
+  },
+  {
+    "name": "McDonalds",
+    "keywords": ["burgers"],
+    "dollarSigns": 1,
+    "hasDelivery": false
+  },
+  {
+    "name": "Dominos",
+    "keywords": ["pizza"],
+    "dollarSigns": 2,
+    "hasDelivery": true
+  },
+  {
+    "name": "California Pizza Kitchen",
+    "keywords": ["pizza", "italian"],
+    "dollarSigns": 2,
+    "hasDelivery": false
+  },
+  {
+    "name": "Spago",
+    "keywords": ["italian"],
+    "dollarSigns": 4,
+    "hasDelivery": false
+  }
+]
